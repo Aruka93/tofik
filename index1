@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head> 
+<meta charset=utf-8">
+<body>
+<title> Знакомство с HTML </title> 
+</head>
+<body>
+<p><h2 id="header"> Краткая информация </h2> </p>
+<p> <b>Мендибаева Аружан</b>, студент 2 курса факультета веб-дизайн. На парах этой дисциплины изучаю <i>основы программирования</i>. Идет ознакомление с html и css. </p>
+<p> 12.09.25 </p>
+
+<table border="1" width="700" cellpadding="5" cellspacing="3">
+<tr><th>Дисциплины</th><th>Кредиты</th><th>Преподаватель</th></tr>
+<tr><td>Основы HTML и CSS </td><td>3</td><td>А.Жулдызкызы</td></tr>
+<tr><td>Цветоведение</td><td>4</td><td>А.Артуровна</td></tr>
+<tr><td>Философия</td><td>5</td><td>Д.Куанышевна</td></tr>
+</table>
+<p>
+<table border="1" width="500" cellpadding="5" cellspacing="3">
+<tr><th>Дисциплины</th><th>Преподаватель</th><th>Кредиты</th></tr>
+<tr><td>Культурология </td><td>Г.Николаевна</td><td rowspan="3">2</td></tr>
+<tr><td>Психология</td><td>А.Нурланкызы</td></tr>
+<tr><td>Физическая культура</td><td>Е.Сапаргалиевич</td></tr>
+</table>
+</p>
+
+<p> <img src="kitty.webp" width="100" height="100"> <img src="kitty.webp" width="200" height="200"> <img src="kitty.webp" width="300" height="300"></p>
+
+<p><a href="https://ru.freepik.com/photos/cat">Ссылка на ресурсы в Интернете</a></p>
+<p> <a href="mailto:mendibaevaruzhan.7@mail.ru">Ссылка на почту</a> </p> 
+</body>
+</html>
+
+
